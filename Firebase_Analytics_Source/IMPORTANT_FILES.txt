@@ -1,0 +1,17 @@
+﻿app\build.gradle.kts
+app\src\main\AndroidManifest.xml
+app\src\main\kotlin\com\cex\insightflowstore\analytics\AnalyticsTracker.kt
+app\src\main\kotlin\com\cex\insightflowstore\analytics\EcommerceEvents.kt
+app\src\main\kotlin\com\cex\insightflowstore\data\CartManager.kt
+app\src\main\kotlin\com\cex\insightflowstore\model\CartItem.kt
+app\src\main\kotlin\com\cex\insightflowstore\ui\screens\CartScreen.kt
+app\src\main\kotlin\com\cex\insightflowstore\ui\screens\CatalogScreen.kt
+app\src\main\kotlin\com\cex\insightflowstore\ui\screens\CheckoutScreen.kt
+app\src\main\kotlin\com\cex\insightflowstore\ui\screens\OrderSuccessScreen.kt
+app\src\main\kotlin\com\cex\insightflowstore\ui\screens\ProductDetailScreen.kt
+build.gradle.kts
+Create-Firebase-Analytics-App-Zip.ps1
+gradle.properties
+gradle\libs.versions.toml
+README.md
+settings.gradle.kts

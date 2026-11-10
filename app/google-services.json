@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "101357565298",
+    "project_id": "insightflow-ai-90c32",
+    "storage_bucket": "insightflow-ai-90c32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101357565298:android:64195308e3b8fbc746d9eb",
+        "android_client_info": {
+          "package_name": "com.cex.insightflowai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101357565298-2egttivb1n7evs83jfpf4otn5vq0lcla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cex.insightflowai",
+            "certificate_hash": "e9b648a98ff834e9c9196f079dc06b093f040e47"
+          }
+        },
+        {
+          "client_id": "101357565298-njmtjtci808i61h6d69v22ub11atfihd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jAyiAMfRRC2yA_WlgIefhl5ER2TJij0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101357565298-4hh73egttbl7in5l9a8f1t5h7ifh79ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
